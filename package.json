@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "debug": "^4.3.5",
     "moment-timezone": "^0.5.45"
   }
 }
